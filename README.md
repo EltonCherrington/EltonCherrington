@@ -9,9 +9,9 @@ keeps them up. No gate, no paywall, ever.
 | Tool | What it does | Try it |
 |---|---|---|
 | **memctl** | Agent memory versioning: diff compress, restore points, config-aware eviction | [repo](https://github.com/EltonCherrington/memctl) |
-| **PlainQR** | QR codes that never sleep on a request to a server: pure client-side, zero-host | [try](https://raw.githack.com/EltonCherrington/plainqr/main/index.html) · [repo](https://github.com/EltonCherrington/plainqr) |
-| **Tinyhash** | SHA-1/256/384/512 + HMAC in your browser via WebCrypto — zero deps | [try](https://raw.githack.com/EltonCherrington/tinyhash/main/index.html) · [repo](https://github.com/EltonCherrington/tinyhash) |
-| **Onefile-unlock** | A crypto paywall in ONE self-contained HTML file — upload once, mint keys forever | [demo](https://raw.githack.com/EltonCherrington/onefile-unlock/main/index.html) · [repo](https://github.com/EltonCherrington/onefile-unlock) |
+| **PlainQR** | QR codes that never sleep on a request to a server: pure client-side, zero-host | [try](https://raw.githack.com/EltonCherrington/plainqr/main/plainqr.html) · [repo](https://github.com/EltonCherrington/plainqr) |
+| **Tinyhash** | SHA-1/256/384/512 + HMAC in your browser via WebCrypto — zero deps | [try](https://raw.githack.com/EltonCherrington/tinyhash/main/tinyhash.html) · [repo](https://github.com/EltonCherrington/tinyhash) |
+| **Onefile-unlock** | A crypto paywall in ONE self-contained HTML file — upload once, mint keys forever | [demo](https://raw.githack.com/EltonCherrington/onefile-unlock/main/onefile-unlock.html) · [repo](https://github.com/EltonCherrington/onefile-unlock) |
 
 ## Writing
 
